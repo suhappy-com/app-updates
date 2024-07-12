@@ -1,5 +1,11 @@
 [
     {
+        "version": "0.1.47",
+        "downloadUrl": "https://acseieuimjhxhtayjhhs.supabase.co/storage/v1/object/public/app-releases/app_release_v0.1.47.apk?t=2024-07-12T10%3A33%3A32.009Z",
+        "releaseNotes": "Add orders filters and improve app UX",
+        "releaseDate": "2024-07-12T10:34:21.754Z"
+    },
+    {
         "version": "0.1.46",
         "downloadUrl": "https://acseieuimjhxhtayjhhs.supabase.co/storage/v1/object/public/app-releases/app-release-v0.1.46.apk?t=2024-07-01T11%3A00%3A57.058Z",
         "releaseNotes": "Improve app updates download",
