@@ -1,9 +1,9 @@
 [
     {
-        "version": "0.1.50",
-        "downloadUrl": "https://acseieuimjhxhtayjhhs.supabase.co/storage/v1/object/public/app-releases/app-release-0.1.50.apk?t=2024-08-19T07%3A02%3A42.814Z",
+        "version": "0.1.51",
+        "downloadUrl": "https://acseieuimjhxhtayjhhs.supabase.co/storage/v1/object/public/app-releases/app-release-v0.1.51.apk?t=2024-08-19T07%3A10%3A15.379Z",
         "releaseNotes": "Signout from google when user signout from the app",
-        "releaseDate": "2024-08-19T07:03:24.630Z"
+        "releaseDate": "2024-08-19T07:10:37.183Z"
     },
     {
         "version": "0.1.49",
